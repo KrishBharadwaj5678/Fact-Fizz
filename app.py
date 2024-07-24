@@ -9,7 +9,7 @@ st.set_page_config(
     }
 )
 
-st.write("<h2 style='color:#B4E380;font-size:32px;'>Uncover a Fascinating Fact with Every Click!</h2>",unsafe_allow_html=True)
+st.write("<h2 style='color:#B4E380;font-size:30px;'>Uncover a Fascinating Fact with Every Click!</h2>",unsafe_allow_html=True)
 
 btn=st.button("Generate")
 if btn:
