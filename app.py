@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="Fact Fizz",
     page_icon="icon.png",
     menu_items={
-        "About":"Dive into FactFizz, where every click uncovers a fresh and intriguing fact! Perfect for sparking curiosity and adding a dose of wonder to your day, FactFizz delivers a new random fact instantly, keeping you engaged and enlightened with each visit."
+        "About":"Dive into Fact Fizz, where every click uncovers a fresh and intriguing fact! Perfect for sparking curiosity and adding a dose of wonder to your day, Fact Fizz delivers a new random fact instantly, keeping you engaged and enlightened with each visit."
     }
 )
 
